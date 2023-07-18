@@ -16,8 +16,9 @@ Follow the instruction on https://pytorch.org/get-started/locally/.
 ```shell
 pip install -r requirements.txt
 ```
+## Train the model
 
-3.Run (8 GPUs) Box-DETR-R50 by
+Run (8 GPUs) Box-DETR-R50 by
 
 ```shell
 cd Box-DETR
@@ -27,3 +28,4 @@ sh train.sh
 For running with 4 GPUs, please modify `--nproc_per_node' to 4 and `--batch_size' to 4.
 
 For other settings, please add `--backbone' or '--num_patterns'.
+
