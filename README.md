@@ -1,5 +1,5 @@
 # box-detr
-Code for the paper `Box-DETR: Understanding and Boxing Conditional Spatial Queries'
+Code for the paper [Box-DETR: Understanding and Boxing Conditional Spatial Queries](https://arxiv.org/abs/2307.08353)
 
 Modified from DAB-DETR (https://github.com/IDEA-Research/DAB-DETR)
 
